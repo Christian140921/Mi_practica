@@ -1,2 +1,8 @@
-print("hola mundo, sigo aprendiendo git y github dia 2")
-print("ahora aprendi sobre git ignore y sobre git diff")
+
+edad_usuario = 26
+
+
+if edad_usuario >= 26:
+    print("El usuario es mayor de 25 años")
+else:
+    print("El usuario es menor de 26 años")
